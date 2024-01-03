@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "woRk6ZFqlNVCu6WOTesh0Qk/xdr+xPmBNnI28+Q6myGzxQKrghXStfEMNEk4tbfD+Sh+/1XK48p3J3oPUYa+zQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal Repositories\\Supervision\\Supervision.Core\\Supervision.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dominique.fonteyn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dominique.fonteyn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dominique.fonteyn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
